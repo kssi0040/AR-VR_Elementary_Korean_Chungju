@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Social_Quiz>
+	<Field stage="0" id="0" Text="Q 1. '충주 탑평리 칠층 석탑'은 사람들에게 '중앙 탑'이라고도 불렸습니다. 이 이름은 어떤 인물에게서 유래된 것일까요?&#xA;&#xA;1) 통일신라의 원성왕&#xA;2) 고구려의 광개토대왕&#xA;3) 조선의 세종대왕&#xA;4) 고조선의 단군왕검" Type="Option" Order="1,2,3,4" answer="1" left="*" right="*"/>
+	<Field stage="0" id="1" Text="Q 2.&#xA;온라인 대화는 인터넷에서 이루어지는 대화로, 대화방에서 이루어지는 즉각적인 대화는 물론, 문자 메시지, 전자 우편 등을 통한 의사소통을 모두 포함합니다. &#xA;온라인 대화는 정해져 있는 대화 상대뿐만 아니라 정해지지 않은 대화 상대와도 의사소통이 가능합니다. 온라인 대화에서의 적절한 대화 방법으로 알맞은 것을 골라보세요! &#xA;&#xA; (1) 온라인 대화에서는 온라인 환경의 영향을 받은 독특한 표현들을 많이 사용한다.&#xA;(2) 온라인 대화에서는 어법에 맞지 않는 표현들을 사용하는 것이 좋다.  &#xA;" Type="Option" Order="1,2" answer="1" left="*" right="*"/>
+	<Field stage="0" id="2" Text="Q 3.&#xA;(1) 온라인 대화에서는 대화 상대가 누구인지 모를 수 있으므로 높임말을 쓰도록 한다. &#xA;(2) 온라인 대화에서는 불필요한 오해가 생길 수 있으므로 몸짓, 표정을 반드시 활용하도록 한다.&#xA;(3) 온라인 대화에서는 대화의 내용(정보)이 기록, 보관되어 이를 다시 확인할 수 있으므로 대화 상대에게 주의를 기울이지 않아도 된다. " Type="Option" Order="1,2,3" answer="1" left="*" right="*"/>
+	<Field stage="0" id="3" Text="Q3. 다음번 방문할 장소와 관련된 인물이자 '광개토대왕의 아들'인 이 사람은 누구일까요?&#xA;&#xA;① 우륵 ② 장수왕 ③ 신립 장군 ④ 진흥왕" Type="Option" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="0" id="4" Text="Q1. 전화를 통해 정보를 수집하겠습니까?" Type="Option" Order="네" answer="네" left="*" right="*"/>
+	<Field stage="0" id="5" Text="Q2. 면대면으로 직접 찾아가 보겠습니까?" Type="Option" Order="네" answer="네" left="*" right="*"/>
+	<Field stage="0" id="6" Text="Q4. 다음 장소와 관련된 인물이자 '광개토대왕의 아들'인 이 사람은 누구일까요?&#xA;&#xA;① 우륵 ② 장수왕 ③ 신립 장군 ④ 진흥왕" Type="Option" Order="1,2,3,4" answer="2" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="1" id="0" Text="###은(는) 장수왕과 휴대전화를 통해 온라인 대화로 소통하다가, 장수왕을 직접 만나서 얼굴을 마주보고 대화하려고 합니다. 이처럼 상황에 따라 의사소통의 수단과 방식은 달라집니다. &#xA;다음 상황에 적절한 의사소통 수단을 연결해 주세요. " Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="1" id="0" Text="Q 1.&#xA;1) 학교 현장 체험 학습에서 느꼈던 생각을 학급 친구들과 공유하려고 한다." Type="Link" Order="학습 누리집 게시판" answer="학습 누리집 게시판" left="1" right="ㄱ"/>
+	<Field stage="1" id="0" Text="2) 아파트 관리사무소 안내 방송를 듣고 궁금한 점을 물어보려고 한다. " Type="Link" Order="전화" answer="전화" left="2" right="ㄴ"/>
+	<Field stage="1" id="0" Text="ㄱ) 학급 누리집 게시판 / ㄴ) 전화 " Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="1" id="1" Text="Q 2. &#xA;1) 학급 친구들에게 학급 회의 일정이 내일 아침으로 갑작스럽게 정해졌음을 알리려고 한다." Type="Link" Order="전자 우편" answer="문자 메시지" left="1" right="ㄱ"/>
+	<Field stage="1" id="1" Text="2) 자신이 좋아하는 시인에게 작품을 감명 깊게 읽었다고 전하려고 한다. " Type="Link" Order="문자 메시지" answer="전자 우편" left="2" right="ㄴ"/>
+	<Field stage="1" id="1" Text="ㄱ)  전자 우편 / ㄴ) 문자 메시지 " Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="1" id="2" Text="Q 3. 선조들은 죽간이나 종이 등에 쓴 소식을 사람이 걸어서 직접 전달하거나 말을 타고 전달하였습니다. 그러나 적의 침입 등 급박한 상황이나 정보, 소식 등을 전하기 위해 높은 산에 올라가 '이것'을 사용하기도 하였는데요. 이것은 무엇일까요?&#xA;&#xA;① 깃발과 화살&#xA;② 연기와 불" Type="Option" Order="1,2" answer="2" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="2" id="0" Text="Q1. 탄금대의 이름은 무엇에서 유래됐을까요?&#xA;&#xA;① 우륵이 가야금(또는 가얏고)을 만든 장소라는 뜻&#xA;② 우륵이 자신의 모국, 가야를 잃은 슬픔을 가야'금'으로 '탄' 곳이라는 뜻&#xA;③ 우륵의 아름다운 가야금 소리에 신라 진흥왕이 우륵을 받아준 곳이라는 뜻" Type="Option" Order="1,2,3" answer="2" left="*" right="*"/>
+	<Field stage="2" id="1" Text="Q2. 견문과 감상 능력을 키우기 위해서는 우륵의 말에 어떻게 반응하면 좋을까요?&#xA;&#xA; &quot;나는 탄금대에서 나라를 잃은 슬픔을 가야금으로 연주하곤 했지.&quot;&#xA;&#xA;① 나라를 잃은 슬픔을 연주하였다니, 그 음악이 참 애절했을 것 같아요!                    &#xA;② 네, 그렇군요. " Type="Option" Order="1,2" answer="1" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="3" id="0" Text="Q1. 우륵과 관련하여 '열두대'라는 이름은 어떻게 지어진 것일까요? (힌트: 우륵과 관련 있음)&#xA;                                     &#xA;① 대나무가 12그루 있는 곳이어서   &#xA;② 가야금이 12현이어서" Type="Option" Order="1,2" answer="2" left="*" right="*"/>
+	<Field stage="3" id="1" Text="Q 2. 열두대를 둘러보며 알게 된 점과 느낀 점을 메모하려고 합니다. 적절하게 메모한 친구는 누구누구일까요?&#xA;&#xA;①준형: 열두대에 대한 역사를 더 찾아봐야겠다고 생각했다.&#xA;② 수민: 열두대는 우륵의 가야금이 12현이라는 것에서 유래된 이름이다. 앞으로 가야금을 볼 때마다 열두대라는 장소가 생각날 것 같다.&#xA;③성우: 열두대는 신립 장군이 전쟁 중에 열두 번이나 오르내렸던 곳이다." Type="Option" Order="1,2,3" answer="2" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="4" id="0" Text="Q1. 다음의 장소와 어울리는 인물을 연결하세요." Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="4" id="0" Text="1) 고구려가 남쪽으로 영역을 넓혔음을 보여주는 유적으로, 영토를 남한강이 흐르는 곳까지 확장하였다는 증거인 충주 고구려비.    " Type="Link" Order="우륵" answer="장수왕" left="1" right="ㄱ"/>
+	<Field stage="4" id="0" Text="2) 신라 진흥왕 때에 가야에서 넘어온 음악가가 가야금을 타며 나라 잃은 슬픔을 노래한 탄금대.  " Type="Link" Order="장수왕" answer="우륵" left="2" right="ㄴ"/>
+	<Field stage="4" id="0" Text="3) 임진왜란 때 충주의 탄금대에서 왜군과 전투를 벌였지만 패배함. 그가 전투를 벌였던 곳은 열두대라는 이름으로 남아 있음." Type="Link" Order="신립장군" answer="신립장군" left="3" right="ㄷ"/>
+	<Field stage="4" id="0" Text="ㄱ) 우륵/ ㄴ) 장수왕/ ㄷ) 신립장군" Type="Link" Order="*" answer="*" left="*" right="*"/>
+	<Field stage="4" id="1" Text="Q2. 친구들에게 충주시를 소개하기 위해 지금까지 충주시 여행을 통해 얻은 견문과 감상을 인터넷 게시판에 올리려고 합니다. 견문과 감상이 드러나는 글을 쓰기 위해서는 어떤 것을 고려해야 할까요? 견문과 감상이 드러나는 글을 쓸 때 고려해야 할 사항으로 알맞지 않은 것을 보기에서 고르세요.&#xA;&#xA;① 여행에서 보거나 들어서 알게 된 것을 적는다.&#xA;② 여행의 과정이나 일정을 적는다. &#xA;③ 특정 장소 하나를 선택하여 그와 관련된 지식을 중심으로 적는다.  &#xA;④ 여행에서 보거나 들어서 알게 된 내용에 대한 생각이나 느낌을 적는다. " Type="Option" Order="1,2,3,4" answer="3" left="*" right="*"/>
+	<Field stage="*" id="*" Text="*" Type="*" Order="*" answer="*" left="*" right="*"/>
+</Social_Quiz>

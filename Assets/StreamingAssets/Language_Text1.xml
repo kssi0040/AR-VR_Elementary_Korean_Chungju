@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Text_XML>
+	<Field stage="0" id="0" Text="###은(는) 충청북도 충주시를 둘러볼 것입니다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="1" Text="충청북도 충주시는 한반도의 중심부이자 삼국 문화가 하나로 싹튼 '중원문화'의 중심지입니다. 각 시대의 역사적 인물들과의 만남을 통해서 충주시의 살아 있는 역사와 문화를 체험하며 견문을 넓혀봅시다. &#xA;" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="2" Text="그 과정에서 다양한 매체를 활용하여 인물들과 소통해 봅시다. 퀘스트를 모두 완수하면 '충주시 관광' 능력을 입증하는 배지들, '정보 수집 능력자' 배지와 '매체 활용 능력자' 배지, '견문이 넓은 자' 배지를 획득하게 됩니다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="3" Text="충청북도 충주시를 어디서부터 둘러보면 좋을까?&#xA;충주시에서 가장 유명한 문화재가 있는 '중앙탑사적공원'에서 출발해 보자." char="player" anim="*" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="1" id="0" Text="###은(는) 충청북도 충주시에 있는 중앙탑사적공원에 도착했습니까?" char="teacher" anim="teachAnim" backImg="midPark" type="noneTalk" who="*"/>
+	<Field stage="1" id="1" Text="중앙탑사적공원을 둘러볼까요? " char="teacher" anim="teachAnim" backImg="midPark" type="noneTalk" who="*"/>
+	<Field stage="1" id="2" Text="중앙탑사적공원에는 넓은 잔디밭에 다양한 종류의 나무가 심어져 있고, 시민들의 휴식 공간이 마련되어 있습니다. 공원 내에는 충주 탑평리 칠층 석탑과 조각 공원이 있습니다. 또한 이곳에는 충주박물관이 있어 불교 미술품이나 민속품 및 충주의 역사를 한눈에 볼 수 있습니다." char="teacher" anim="teachAnim" backImg="midPark" type="noneTalk" who="*"/>
+	<Field stage="1" id="3" Text="중앙탑사적공원'에 오긴 했는데, 어디부터 둘러봐야 좋을까?" char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="4" Text="이곳에 우리나라 국보로 지정된 탑이 있다고 들었어!" char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="5" Text="중앙탑사적공원 내에는 국보 제6호인 충주 탑평리 칠층 석탑(일명 중앙 탑)이 있습니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="6" Text="충주 탑평리 칠층 석탑 주변을 둘러볼까요? " char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="7" Text="충주 탑평리 칠층 석탑은 통일신라 시대 석탑 중에 규모가 가장 크고 높이가 높습니다. 지리적으로 우리나라의 중앙에 위치한다고 하여 '중앙 탑(中央塔)'이라고도 불립니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="8" Text="충주 지역은 삼국시대부터 교통의 요지였던 곳으로 고구려, 백제, 신라 등 삼국은 이 지역을 차지하기 위해 전투를 벌이기도 했습니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="9" Text="중앙 탑에 대해 더 알아볼까?" char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="10" Text="중앙 탑'이라는 명칭에 관한 설화" char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="11" Text="중앙 탑'이라는 명칭과 관련하여 원성왕의 설화가 전해집니다. 통일신라 원성왕 때 국토의 중심이 어딘지를 알아보기 위해 남과 북의 끝 지점에서 같은 보폭을 가진 사람을 정하여 출발시켰더니 항상 이곳에서 만났기에 여기에 탑을 세우고 국토의 중앙임을 표시했다고 합니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="12" Text="중앙 탑의 이름은 말 그대로 우리나라의 중앙에 위치하여 붙여진 이름이구나! &#xA;삼국시대에 중심을 차지하고자 하는 처절한 싸움이 이곳에 있었겠어." char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="13" Text="중앙탑사적공원을 방문하여 인근의 충주박물관도 함께 둘러봅시다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="14" Text="충주시에서는 충주의 문화와 역사, 문화재에 대한 이해를 돕기 위해 문화관광 해설사를 배치하고 있습니다. " char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="15" Text="충주시 관광 초수 배지'를 획득하셨습니다!" char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="16" Text="충주 탑평리 칠층 석탑을 모두 둘러보았습니다. &#xA;다른 곳으로 가시겠습니까?" char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="17" Text="어디를 더 둘러볼까?" char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="18" Text="광개토대왕 아들님께서 ###을(를) 대화방으로 초대하였습니다. &#xA;초대를 수락하시겠습니까?" char="teacher" anim="*" backImg="sevenTower" type="onTalk" who="teach_talk"/>
+	<Field stage="1" id="19" Text="###님이 대화에 응하셨습니다. &#xA;대화에 참여하기 위해서 온라인 대화에 대한 특징과 예절에 대해&#xA; 학습해야 합니다. 학습하시겠습니까?" char="teacher" anim="*" backImg="sevenTower" type="onTalk" who="teach_talk"/>
+	<Field stage="1" id="20" Text="낯선 사람이 내게 온라인 대화를 신청했네! 예의를 지키며 대화할 수 있을까?" char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="21" Text="온라인 대화 능력치가 올라갔습니다. ###은(는) 온라인 대화를 통한 정보 수집 및 의사소통이 가능합니다. '매체 활용 소통 능력자' 배지를 획득하였습니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="22" Text="광개토대왕 아들님이 대화를 신청하셨습니다." char="teacher" anim="*" backImg="sevenTower" type="onTalk" who="teach_talk"/>
+	<Field stage="1" id="23" Text="자네가 충주를 여행하고 있다는 소식을 들었네. 충주시에는 나와 관련된 역사적으로 중요한 장소가 있지. 이곳으로 오지 않겠는가?" char="king" anim="*" backImg="sevenTower" type="onTalk" who="king_talk"/>
+	<Field stage="1" id="24" Text="안녕하세요? 저는 ###입니다. 당신은 누구인가요? 그곳은 어디인가요?" char="player" anim="*" backImg="sevenTower" type="onTalk" who="player_talk"/>
+	<Field stage="1" id="25" Text="내가 누구인지 알아맞히면 이곳이 어디인지 알려주지." char="king" anim="*" backImg="sevenTower" type="onTalk" who="king_talk"/>
+	<Field stage="1" id="26" Text="다음 장소로 이동하기 위해 대화 상대가 누구인지 맞혀 봅시다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="27" Text="퀴즈의 답이 뭐지? 정보를 찾아봐야겠어." char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="28" Text="인물에 대한 정보가 필요합니다. 적절한 매체를 활용하여 인물에 대한정보를 수집해 주세요." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="29" Text="광개토대왕 아들님이 전화를 받지 못했습니다. 다른 방법을 찾아보세요." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="30" Text="내가 있는 곳의 위치를 알기 위해서는 먼저 내 이름을 알아 와야 한다고 하지 않았나." char="king" anim="*" backImg="sevenTower" type="onTalk" who="king_talk"/>
+	<Field stage="1" id="31" Text="광개토대왕 아들님이 면대면 대화 요청을 거절하였습니다. 다른 방법으로 정보를 찾아봅시다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="32" Text="그렇다면 인터넷에 검색해볼까? 광개토대왕의 아들... " char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="33" Text="좋았어! 이제 퀴즈의 답을 알았어." char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="34" Text="###은(는) '정보 수집 능력자' 배지를 획득하셨습니다. 이로써, 광개토대왕의 아들인 장수왕과 온라인으로 대화할 수 있게 되었습니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="35" Text="고구려 제20대 왕인 장수왕이시지요." char="player" anim="*" backImg="sevenTower" type="onTalk" who="player_talk"/>
+	<Field stage="1" id="36" Text="자네, 내가 누군지 드디어 알게 되었군. 나와 관련한 장소가 어딘지는 '충주 탑평리 칠층 석탑' 주변에 숨겨 놓았으니 나를 찾아오도록 하게. 기다리고 있겠네." char="king" anim="*" backImg="sevenTower" type="onTalk" who="king_talk"/>
+	<Field stage="1" id="37" Text="이게 뭐지? 꼭 두루마리처럼 생겼구나." char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="38" Text="죽간을 발견하였습니다. 죽간은 종이가 발명되기 전에 글자를 기록하던 대나무 조각입니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="39" Text="죽간(竹簡)은 대나무를 엮은 뒤 그 위에 글씨를 쓰는 기록수단입니다. 종이가 발명되기 전까지 가죽이나 비단과 더불어 사용되었으며, 무거워서 이동이 불편한 단점이 있었습니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="40" Text="죽간을 펼쳐서 그 안에 쓰인 글씨를 읽어주세요." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="41" Text="아이고, 죽간 하나에 족히 1kg은 넘겠는걸! 종이와 스크린에&#xA; 새삼 감사하게 되는군." char="player" anim="*" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="42" Text="충주 고구려비" char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="43" Text="장소명이 나타났습니다. 충주 고구려비가 있는 곳으로 이동합니다." char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="1" id="44" Text="충주시 관광 중수 배지'를 획득하셨습니다!" char="teacher" anim="teachAnim" backImg="sevenTower" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="2" id="0" Text="###은(는) 충청북도 충주시 충주 고구려비에 도착했습니까?" char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="1" Text="장수왕님이 보이기는 하는데 말을 걸 수가 없어! 어떡하지?" char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="2" Text="의사소통의 달인'이 되면 장수왕과 대화를 나눌 수 있게 됩니다." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="3" Text="###이(가) '의사소통의 달인 배지'를 획득하셨습니다!  이제 충주 고구려비 옆에 서 있는 장수왕에게 말을 걸 수 있게 되었습니다." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="4" Text="여기까지 잘 찾아왔네. 정식으로 소개하지. 나는 고구려 제20대 왕 거련이네." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="5" Text="다들 장수왕이라고 부르지. 찾아오는 길에 어려움은 없었는가?" char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="6" Text="안녕하세요, 장수왕님. 교과서에서만 만나 뵈다가 이렇게 실제로 인사드리게 되어 영광입니다. 저는 ###입니다. 큰 어려움은 없었는데요, 죽간이라는 것을 처음 보아 신기했습니다. " char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="7" Text="그런데 너무 무거워서 펼쳐볼 때 힘들었습니다. 지금은 어디서든 자유롭게 연락할 수 있고 정보도 손쉽게 저장하고 찾을 수 있는 장치들이 발명되었거든요." char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="8" Text="허허, 죽간이 낯설었겠구나! 네가 신기해하니 내가 살던 시대의 소통 방식과 관련하여 퀴즈를 하나 내겠네. 풀어보게." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="9" Text="장수왕님이 자신이 살던 시대의 소통 방식과 관련하여 퀴즈를 내었습니다. 퀴즈를 맞혀 보세요." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="10" Text="###이(가) 전자매체가 없던 시기의 소통 방식에 대해 학습하였습니다. 견문을 넓혔습니다. '견문이 넓은 자' 배지를 획득하셨습니다." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="11" Text="과거의 소통 방식에 대해서도 알다니 앎의 폭이 넓은 자일세. 그렇다면 내 옆에 있는 고구려비에 대해서도 잘 알고 있는가?" char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="12" Text="송구스럽지만 잘 모르겠습니다. 설명해 주시겠어요?" char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="13" Text="그렇군. 그럼 설명해 주겠네." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="14" Text="고구려는 영토의 남쪽 맨 끝에 위치한 충주에 국원성을 설치하고 남쪽 지방을 관리·운영하기 위해 군사 기지로 활용하였다네." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="15" Text=" 지금은 겉면이 많이 닳아 없어져서 글씨를 알아보기 힘들지만," char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="16" Text=" 이 고구려비는 고구려가 남쪽으로 영토를 넓혔음을 이해하는 데에 빼놓을 수 없는 역사적 자료라네." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="17" Text="충주 고구려비에 대해 더 알아볼까요?" char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="18" Text="충주 고구려비는 신라 시대 충주의 옛 지명인 중원에서 비롯된 '중원고구려비'의 공식 명칭이다. 충주 고구려비는 국내에 유일하게 남아 있는 고구려의 돌로 만든 비석(석비)으로 1979년 발견되었다. 1981년에는 국보 제205호로 지정되었다.&#xA;충주 고구려비가 세워진 시기에 대해서는 여러 학설이 존재하는데, 일반적으로 고구려가 남한강이 흐르는 주변까지 영역을 확장한 5세기 장수왕 때 세워진 것으로 추정되며, 장수왕의 업적으로 충주 고구려비를 세운 것이라고 언급되기도 한다. 또한, 이 비석은 5세기 고구려가 남쪽으로 영토를 넓혔음을 알려주고 고구려와 신라와의 관계를 알려주기 때문에 역사적 자료로서의 가치가 매우 크다." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="19" Text="정말 소중한 역사적 자료네요. 게다가 장수왕님의 눈부신 업적이기도 하군요. 좋은 말씀 감사합니다. 장수왕님, 혹시 실례가 되지 않는다면 이 주변에 역사적 가치가 있는 곳이 또 있을까요?" char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="20" Text="충청북도 충주시에는 이곳 말고도 역사적 의미가 있는 곳들이 많다네." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="21" Text="탄금대, 열두대, 수안보 온천 등 자네의 충주 여행을 풍성하게 해줄 곳들이지." char="king" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="22" Text="여행지를 추천해주셔서 정말 감사합니다, 장수왕님!" char="player" anim="*" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="23" Text="충주시 관광 고수 배지'를 획득하셨어요! 이로써 총 일곱 개의 배지를 모아 충주시의 퀘스트를 모두 완료하였습니다. 축하합니다!" char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="2" id="24" Text="축하합니다! 지금까지 충북 충주의 주요 장소를 살펴 보았습니다. 충북 충주의 여행자로 첫 발을 떼신 걸 축하드립니다! 이제 충북 충주의 또 다른 명소를 구경하러 떠나볼까요? 관광하고 싶은 곳을 자유롭게 선택하세요." char="teacher" anim="teachAnim" backImg="graveStone" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="3" id="0" Text="탄금정에 대해 더 알아볼까요?" char="teacher" anim="teachAnim" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="3" id="1" Text="2층으로 만들어진 탄금정은 사방을 한 번에 볼 수 있는 정자이다. 이 정자는 충주 관아 내 연못에 있던 청운정이라는 정자를 사직산으로 옮겼다가, 1955년 다시 이 자리로 옮겨 왔다. 지금의 정자는 본래 나무로 된 정자가 낡고 헐어 새로 지은 것이다." char="teacher" anim="teachAnim" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="3" id="2" Text="충주문화관광 홈페이지에서 탄금대에 대한 다양한 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="3" id="3" Text="나 우륵은 가야금을 만든 가야 출신 음악가이지." char="woo_npc" anim="*" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="3" id="4" Text="가야가 사라진 뒤, 나는 음악을 하기 위해 신라로 넘어가야 했다네." char="woo_npc" anim="*" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="3" id="5" Text="고맙네. 자네라도 나의 말을 들어주니 내 무거운 마음이 조금 덜어지는 것 같네. 허허허." char="woo_npc" anim="*" backImg="tan" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="4" id="0" Text="열두대는 강에 솟은 바위 절벽 꼭대기로, 탄금대의 옆에 있습니다. 열두대는 콘크리트로 된 12단의 계단을 통해 오르내릴 수 있습니다. 이곳에 오르면 유유히 흐르는 강줄기와 너른 들판을 한눈에 볼 수 있습니다. 또한 해 질 무렵에는 아름다운 노을을 감상할 수 있습니다." char="teacher" anim="teachAnim" backImg="eal" type="noneTalk" who="*"/>
+	<Field stage="4" id="1" Text="열두대 이름의 유래&#xA;열두대라는 이름에 관련된 이야기는 두 가지가 있습니다. 우륵이 연주한 악기인 가야금이 12현으로 이루어졌다 하여 붙여진 이름이라는 이야기가 있고, 신립장군이 왜병과의 전투에서 열기에 달아오른 활시위를 강물에 식히기 위해 이 절벽을 12번 오르내리며 군사들의 용기와 의지를 북돋아 주었다 하여 붙여진 이름이라는 이야기도 있습니다." char="teacher" anim="teachAnim" backImg="eal" type="noneTalk" who="*"/>
+	<Field stage="4" id="2" Text="하지만 실제로 열두대는 사람이 오르내리기에는 너무 가파른 곳이라고 알려졌다고 해." char="woo_npc" anim="*" backImg="eal" type="noneTalk" who="*"/>
+	<Field stage="4" id="3" Text="에헴, 그래서 이 열두대의 이름의 유래는 신립장군보다는 나 우륵과 관련된 것이 더 설득력이 있지 않겠는가...?" char="woo_npc" anim="*" backImg="eal" type="noneTalk" who="*"/>
+	<Field stage="4" id="4" Text="열두대는 충주문화관광 홈페이지의 탄금대에 대한 정보에서 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="eal" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="5" id="0" Text="수안보 온천은 자연적으로 물이 솟아 나와 생긴 우리나라 최초의 온천수이다. 수안보 온천수는 지하 250m에서부터 나오는 수온 53℃ 산도 8.3의 약 알카리성 온천 원액으로 리듐을 비롯한 칼슘, 나트륨, 불소, 마그네슘 등 사람의 몸에 좋은 각종 광물질이 함유되어 있고 수질이 부드럽다. " char="teacher" anim="teachAnim" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="5" id="1" Text="전해지는 이야기에 따르면 용이 따뜻한 곳을 찾아 이곳에서 겨울을 보내던 중 병을 고치고 힘이 세어져 하늘로 오르려 했으나 끝내 이루지 못하였다고 한다." char="teacher" anim="teachAnim" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="5" id="2" Text="자네는 알찬 여정을 보내고 있는 것 같네." char="woo_npc" anim="*" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="5" id="3" Text="지금까지의 여정을 정리할 수 있는 장소로 수안보 온천만큼 좋은 곳도 없는 것 같으니 꼭 들르길 바라네!" char="woo_npc" anim="*" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="5" id="4" Text="수안보 온천 홈페이지에 방문하면 수안보 온천과 관련된 다양하고 정확한 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="5" id="5" Text=" 자네처럼 견문과 감상의 폭이 넓은 자는 지식, 일정, 생각, 느낌을 폭넓게 활용하여 글을 쓸 수 있지." char="woo_npc" anim="*" backImg="hotWater" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="6" id="0" Text="축하합니다! '초등국어 교육관광-견문과 감상, 매체를 통한 소통'에서 준비한 충북 충주 지도를 모두 살펴 보았습니다. 당신은 충북 충주의 자유 여행자가 되었습니다!" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="6" id="1" Text="충북 충주에는 숨겨진 좋은 장소가 많답니다! 숨은 명소를 발굴하여 나만의 관광 지도를 만들어 보면 어떨까요? 내가 가는 곳이 곧 길이고 아는 만큼 보인다!&#xA;-초등국어 교육관광-견문과 감상, 매체를 통한 소통-" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+</Text_XML>

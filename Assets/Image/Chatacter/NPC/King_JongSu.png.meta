@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 87a56dfa682158e4889c310c2ce2d1e7
+timeCreated: 1541675110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: King_JongSu_arm_close_front
+    21300002: King_JongSu_hand
+    21300004: King_JongSu_head
+    21300006: King_JongSu_arm_close_back
+    21300008: King_JongSu_eyeblow_R
+    21300010: King_JongSu_eyeblow_L
+    21300012: King_JongSu_neck_Armo
+    21300014: King_JongSu_helmat_side
+    21300016: King_JongSu_ncek_armo
+    21300018: King_JongSu_leg
+    21300020: King_JongSu_10
+    21300022: King_JongSu_body
+    21300024: King_JongSu_neck_back
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King_JongSu_arm_close_front
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 99
+        height: 150
+      alignment: 9
+      pivot: {x: 0.9310752, y: 0.7235437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_hand
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 850
+        width: 110
+        height: 140
+      alignment: 9
+      pivot: {x: 0.7078401, y: 0.91370064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_head
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 536
+        width: 316
+        height: 407
+      alignment: 9
+      pivot: {x: 0.44694403, y: 0.2565843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_arm_close_back
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 764
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.67648154, y: 0.80959606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_eyeblow_R
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 781
+        width: 43
+        height: 19
+      alignment: 9
+      pivot: {x: 0.960792, y: 0.33956748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_eyeblow_L
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 782
+        width: 70
+        height: 30
+      alignment: 9
+      pivot: {x: 0.17339522, y: 0.29678142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_neck_Armo
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 543
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_helmat_side
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 611
+        width: 102
+        height: 125
+      alignment: 9
+      pivot: {x: 0.8137973, y: 0.7072861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_ncek_armo
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 547
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_leg
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 131
+        width: 314
+        height: 270
+      alignment: 9
+      pivot: {x: 0.47573006, y: 0.8612821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 345
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_body
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 139
+        width: 438
+        height: 336
+      alignment: 9
+      pivot: {x: 0.33992875, y: 0.41834894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: King_JongSu_neck_back
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 649
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
